@@ -8,7 +8,7 @@ Fique à vontade:
 
 **[Estatística Descritiva](./READMEs/estatistica-descritiva.md)**
 
-Codigo --> [aqui](./funcoes/media-mean-moda-etc.ipynb) <--
+Codigo --> [aqui](./funcoes/estatistica-descritiva.ipynb) <--
 
 **[Tabelas e Gráficos](./READMEs/tabelas-graficos.md)**
 
