@@ -13,3 +13,11 @@ Codigo --> [aqui](./funcoes/estatistica-descritiva.ipynb) <--
 **[Tabelas e Gráficos](./READMEs/tabelas-graficos.md)**
 
 Codigo --> [aqui](./funcoes/tabelas-graficos.ipynb) <--
+
+**Aula Pratica-1**
+
+Codigo --> [aqui](./aulas-praticas/aula-pratica-1/main.ipynb) <--
+
+**Histogramas e+**
+
+Codigo --> [aqui](./funcoes/histograma-e+.ipynb) <--
