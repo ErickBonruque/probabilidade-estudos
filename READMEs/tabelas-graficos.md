@@ -20,7 +20,7 @@ Para montar uma tabela, é necessário definir as colunas e as linhas que irão 
 
 Aqui está um exemplo de como montar uma tabela simples:
 
-<img src="../imagens/tabela_otaku.jpg" alt="Tabela Otaku" width="500">
+<img src="../imagens/tabela_sofrimento.jpg" alt="tabela_sofrimento.jpg" width="500">
 
 (Brincadeira esqueçam ela)
 
