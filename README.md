@@ -6,7 +6,9 @@ Não sei como você está aqui, mas se estiver lendo, venha comigo nessa jornada
 
 Fique à vontade:
 
-**[Estatística Descritiva](./READMEs/estatistica-descritiva.md)**
+**[Introdução](./READMEs/introdução-estatistica.md)**
+
+**[Estatística Descritiva (media, mediana etc.)](./READMEs/estatistica-descritiva.md)**
 
 Codigo --> [aqui](./funcoes/estatistica-descritiva.ipynb) <--
 
